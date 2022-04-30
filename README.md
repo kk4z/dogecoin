@@ -1,7 +1,7 @@
 <h1 align="center">
-Dogecoin Core [DOGE, Ð]  
-<br/><br/>
 <img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
+<br/><br/>
+Dogecoin Core [DOGE, Ð]  
 </h1>
 
 <div align="center">
@@ -47,9 +47,9 @@ software.
 
 Main development resources:
 
-* [Github Projects](https://github.com/dogecoin/dogecoin/projects) is used to
+* [GitHub Projects](https://github.com/dogecoin/dogecoin/projects) is used to
   follow planned and in-progress work for upcoming releases.
-* [Github Discussion](https://github.com/dogecoin/dogecoin/discussions) is used
+* [GitHub Discussion](https://github.com/dogecoin/dogecoin/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
   the Dogecoin Core software, the underlying protocols and the DOGE asset.  
 * [Dogecoindev subreddit](https://www.reddit.com/r/dogecoindev/)
@@ -82,7 +82,7 @@ where your contributions will have high impact and get very appreciation. wow.
 ## Communities 🚀🍾
 
 You can join the communities on different social media.
-To see what's going on, meet people & discuss, find the lastest meme, learn
+To see what's going on, meet people & discuss, find the latest meme, learn
 about Dogecoin, give or ask for help, to share your project.
 
 Here are some places to visit:
